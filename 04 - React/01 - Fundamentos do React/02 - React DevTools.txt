@@ -1,0 +1,1 @@
+é uma extensão que podemos usar para depurar nosso código react.

@@ -1,0 +1,3 @@
+Podemos ir no terminal e digitar node -v > vai trazer a versão
+
+npm -v > também traz a versão 

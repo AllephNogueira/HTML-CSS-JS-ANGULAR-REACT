@@ -1,0 +1,5 @@
+Node = é basicamente o JavaScript para o back-end
+
+NPM = Gerenciador de pacote, la vamos poder além do mais baixar componentes também
+
+Yarn = Outro gerenciador de pacote.
