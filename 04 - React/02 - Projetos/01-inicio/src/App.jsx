@@ -7,6 +7,7 @@ function App() {
   return (
     <div className='App'>
       <h1>Teste usuario {count}, {setCount}</h1>
+      <p className='NovoElemento'>Novo elemento adicionado</p>
     </div>
     
   )
