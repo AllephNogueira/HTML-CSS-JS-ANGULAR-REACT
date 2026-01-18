@@ -1,10 +1,12 @@
 //Style
 import './App.css'
 
+
 // Componentes
 import PrimeiroComponente from './componentes/PrimeiroComponente.jsx' 
 import SegundoComponente from './componentes/SegundoComponente.jsx'
 import TempleteExpressions from './componentes/TempleteExpressions.jsx'
+import Eventos from './componentes/Eventos.jsx'
 
 function App() {
 
@@ -15,6 +17,7 @@ function App() {
         <PrimeiroComponente />
         <TempleteExpressions />
         <SegundoComponente />
+        <Eventos />
         </div>
   )
 }
